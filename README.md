@@ -44,11 +44,7 @@ ros2 launch robot_control robot_drive.launch.py
 
 This will:
 1. Start Gazebo with an empty world
-2. Spawn the mecanum robot
-3. Load the robot description
-4. Start the controller manager with joint state broadcaster
-5. Start the mecanum drive controller
-6. Set up ROS2-Gazebo bridge for clock synchronization
+2. Spawn the robot
 
 ### Control the Robot
 
