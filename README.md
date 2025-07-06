@@ -11,7 +11,7 @@ A ROS2 package for controlling a mecanum-wheel robot in Gazebo simulation using 
 ## Installation
 
 ```bash
-sudo apt install python3-colcon-common-extensions teleop_twist_keyboard ros-jazzy-gz-ros2-control 
+sudo apt install python3-colcon-common-extensions ros-jazzy-teleop-twist-keyboard ros-jazzy-gz-ros2-control 
 ```
 
 
