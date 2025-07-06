@@ -1,7 +1,7 @@
 # robot_control
 
 A ROS2 package for controlling a mecanum-wheel robot in Gazebo simulation using the ros2_control.
-[All examples you can find here gz_ros2_control] (https://github.com/ros-controls/gz_ros2_control)
+[All examples you can find here gz_ros2_control] (https://github.com/ros-controls/gz_ros2_control/)
 
 ## System Requirements
 
