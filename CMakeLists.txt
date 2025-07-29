@@ -1,9 +1,6 @@
 cmake_minimum_required(VERSION 3.5.0)
 project(robot_control)
 
-set_compiler_options()
-export_windows_symbols()
-
 if(NOT WIN32)
   add_compile_options(-Wall -Wextra -Wpedantic)
 endif()
